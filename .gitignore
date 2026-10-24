@@ -1,0 +1,25 @@
+# Environment variables
+**/.env
+**/.env.*
+!**/.env.example
+
+# Dependencies
+**/vendor/
+**/node_modules/
+
+# SQLite databases
+**/database/*.sqlite
+**/database/*.sqlite-*
+
+# Build artifacts
+**/dist/
+**/.nuxt/
+**/.output/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
