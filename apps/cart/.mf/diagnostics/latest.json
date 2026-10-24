@@ -1,0 +1,10 @@
+{
+  "latestErrorEvent": {
+    "code": "TYPE-001",
+    "message": "Failed to generate type declaration. Execute the below cmd to reproduce and fix the error. #TYPE-001\nargs: {\"cmd\":\"C:\\\\Users\\\\Max\\\\AppData\\\\Local\\\\Volta\\\\tools\\\\image\\\\node\\\\20.19.0\\\\node.exe C:\\\\projects\\\\pharmacy\\\\apps\\\\cart\\\\node_modules\\\\typescript\\\\bin\\\\tsc --project C:\\\\projects\\\\pharmacy\\\\apps\\\\cart\\\\node_modules\\\\.federation\\\\tsconfig.dda44912ffec0dcfb40f994bf93d9f07.json\"}\nView the docs to see how to solve: https://module-federation.io/guide/troubleshooting/type#type-001",
+    "args": {
+      "cmd": "C:\\Users\\Max\\AppData\\Local\\Volta\\tools\\image\\node\\20.19.0\\node.exe C:\\projects\\pharmacy\\apps\\cart\\node_modules\\typescript\\bin\\tsc --project C:\\projects\\pharmacy\\apps\\cart\\node_modules\\.federation\\tsconfig.dda44912ffec0dcfb40f994bf93d9f07.json"
+    },
+    "timestamp": 1792867837615
+  }
+}
